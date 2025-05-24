@@ -11,6 +11,9 @@ body {
 
 /* New flex container */
 .container {
+  max-width: 100vw; /* prevent container from exceeding viewport width */
+  width: 100%;      /* use full width of viewport */
+  box-sizing: border-box; /* include padding in width */
   display: flex;
   justify-content: space-between;
   align-items: center;  /* vertically center items */
@@ -19,13 +22,12 @@ body {
 }
 
 .wrapper {
-  max-width: 700px;
-  padding-right: 2rem; /* space between text and image */
+  flex: 1 1 auto;  /* allow wrapper to shrink */
+  min-width: 0;    /* prevents flexbox overflow */
 }
 
 .image-container {
-  max-width: 300px;
-  flex-shrink: 0; /* prevent image shrinking */
+  flex: 0 0 300px; /* fixed width */
 }
 
 .image-container img {
