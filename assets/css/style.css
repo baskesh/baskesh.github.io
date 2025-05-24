@@ -12,7 +12,7 @@ html, body {
 
 .container {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap; /* for small screens */
   width: 100%;
@@ -24,9 +24,9 @@ html, body {
 }
 
 .wrapper {
-  flex: 1 1 0%;
+  flex: 1 1 auto;
   min-width: 0;
-  padding-right: 2rem;
+  padding-right: 0;
 }
 
 .image-container {
