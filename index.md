@@ -2,6 +2,10 @@
 layout: default
 title: Home
 ---
-# Welcome
+# Abbas Keshvani
 
-This is my Jekyll-powered GitHub Pages site!
+Macro strategist & economist specializing in EM.
+
+I enjoy live comedy and economic history.
+
+⚲ Joo Chiat, Singapore

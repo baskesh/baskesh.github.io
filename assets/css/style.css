@@ -1,3 +1,29 @@
 body {
-  background-color: #9c1010; /* Change this to whatever color you want */
+  margin: 0;
+  padding: 0;
+  background-color: #d10000; /* Bright red */
+  color: white;
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.wrapper {
+  max-width: 700px;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
 }
