@@ -20,10 +20,11 @@ html, body {
   box-sizing: border-box;
   padding: 2rem 1rem;
   min-height: 100vh;
+  overflow: hidden;
 }
 
 .wrapper {
-  flex: 1 1 auto;
+  flex: 1 1 0%;
   min-width: 0;
   padding-right: 2rem;
 }
@@ -31,9 +32,11 @@ html, body {
 .image-container {
   flex: 0 0 300px;
   max-width: 300px;
+  width: 100%;
 }
 
 .image-container img {
+  display: block;
   width: 100%;
   height: auto;
   border-radius: 8px;
