@@ -19,6 +19,7 @@ body {
   align-items: center;  /* vertically center items */
   min-height: 100vh;
   padding: 2rem;
+  overflow: hidden;
 }
 
 .wrapper {
