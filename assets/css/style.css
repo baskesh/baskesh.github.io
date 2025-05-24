@@ -4,36 +4,33 @@ body {
   background-color: #d10000;
   color: white;
   font-family: 'Inter', sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  /* Remove flex from body */
   min-height: 100vh;
   text-align: left;
 }
 
-.wrapper {
-  max-width: 700px;
+/* New flex container */
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;  /* vertically center items */
+  min-height: 100vh;
   padding: 2rem;
 }
 
-h1 {
-  font-size: 3rem;
-  font-weight: 700;
-  margin-bottom: 1.5rem;
+.wrapper {
+  max-width: 700px;
+  padding-right: 2rem; /* space between text and image */
 }
 
-p {
-  font-size: 1.25rem;
-  font-weight: 400;
-  margin-bottom: 1rem;
+.image-container {
+  max-width: 300px;
+  flex-shrink: 0; /* prevent image shrinking */
 }
 
-a {
-  color: white;
-  text-decoration: none;
-  margin: 0 0.5rem;
-}
-
-a:hover {
-  text-decoration: underline;
+.image-container img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
 }
