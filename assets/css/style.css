@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #d10000; /* Bright red */
+  background-color: #d10000;
   color: white;
   font-family: 'Inter', sans-serif;
   display: flex;
@@ -26,4 +26,14 @@ p {
   font-size: 1.25rem;
   font-weight: 400;
   margin-bottom: 1rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+a:hover {
+  text-decoration: underline;
 }
