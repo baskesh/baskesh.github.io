@@ -54,7 +54,7 @@ html, body {
 }
 
 .link-image img {
-  width: 24px;        /* adjust as needed */
+  width: 200px;        /* adjust as needed */
   height: auto;
   transition: transform 0.3s ease;
   cursor: pointer;
