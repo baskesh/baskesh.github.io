@@ -64,3 +64,12 @@ html, body {
   transform: scale(1.1);
 }
 
+a {
+  color: white;                /* or whatever your normal link color is */
+  text-decoration: underline; /* or none, depending on your style */
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #ffcccb;              /* optional hover effect */
+}
