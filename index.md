@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Abbas Keshvani*
+# Abbas Keshvani
 
 Macro strategist & economist specializing in EM.
 
