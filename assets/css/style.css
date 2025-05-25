@@ -17,7 +17,7 @@ html, body {
   align-items: center;
   width: 100%;
   max-width: 100vw;
-  padding: 2rem 1rem;
+  padding: 2rem 0 2rem 1rem;
   box-sizing: border-box;
   min-height: 100vh;
   overflow-x: hidden;
@@ -30,13 +30,13 @@ html, body {
 }
 
 .image-container {
-  flex: 0 0 300px;
-  max-width: 300px;
+  flex: 0 0 auto;
+  max-width: none;
 }
 
 .image-container img {
   display: block;
-  width: 100%;
-  height: 100%;
+  width: auto;
+  height: 100vh;
   object-fit: cover;
 }
