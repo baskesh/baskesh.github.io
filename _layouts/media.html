@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>News</title>
+  <title>{{ page.title }}</title>
   <style>
     body {
-      background-color: #8B0000; /* deep red background */
+      background-color: #8B0000;
       color: white;
       font-family: Arial, sans-serif;
       padding: 40px;
@@ -41,38 +41,6 @@
   </style>
 </head>
 <body>
-
-  <div class="article">
-    <a href="https://asia.nikkei.com/" target="_blank">
-      ASEAN's patchy economic growth suggests long road to recovery
-    </a>
-    <div class="source">Nikkei Asia</div>
-    <div class="date">May 10, 2023</div>
-  </div>
-
-  <div class="article">
-    <a href="https://finance.yahoo.com/" target="_blank">
-      The pivot in MAS’s policy came as no surprise to most analysts
-    </a>
-    <div class="source">Yahoo! Finance</div>
-    <div class="date">April 20, 2023</div>
-  </div>
-
-  <div class="article">
-    <a href="https://bloomberg.com/" target="_blank">
-      USD/THB May Advance to 37 in 4Q as Outflows Continue: JPMorgan
-    </a>
-    <div class="source">Bloomberg</div>
-    <div class="date">July 28, 2022</div>
-  </div>
-
-  <div class="article">
-    <a href="https://bloomberg.com/" target="_blank">
-      JPMorgan Cuts Baht Forecast to 35.30 by Year-End on Higher Oil
-    </a>
-    <div class="source">Bloomberg</div>
-    <div class="date">May 5, 2022</div>
-  </div>
-
+  {{ content }}
 </body>
 </html>
