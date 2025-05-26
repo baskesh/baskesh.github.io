@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: media
 title: Media
 permalink: /media/
 ---
