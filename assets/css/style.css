@@ -78,36 +78,39 @@ a:hover {
   .container {
     flex-direction: column;
     align-items: center;
-    padding: 1rem;
-    min-height: auto; /* override 100vh */
+    padding: 0; /* remove side padding */
+    margin: 0;
+    width: 100vw; /* ensure full width */
+    box-sizing: border-box;
   }
 
   .wrapper {
     width: 100%;
-    padding: 1rem 0;
+    padding: 1rem; /* optional: for text */
+    box-sizing: border-box;
   }
 
   .link-image,
   .image-container {
     width: 100%;
-    margin: 1rem 0;
+    margin: 0; /* remove default margins */
+    padding: 0;
     justify-content: center;
+    box-sizing: border-box;
   }
 
   .link-image img {
-    width: 90%;
-    max-width: 300px;
-  }
-
-  .image-container {
-    height: auto; /* important: remove fixed height */
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
   }
 
   .image-container img {
     width: 100%;
     height: auto;
-    object-fit: contain;
-    object-position: center;
-    transform: none; /* remove zoom on mobile */
+    object-fit: cover;
+    margin: 0;
+    padding: 0;
+    transform: none;
   }
 }
