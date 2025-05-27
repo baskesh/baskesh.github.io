@@ -78,25 +78,28 @@ a:hover {
   .container {
     flex-direction: column;
     align-items: center;
-    padding: 0; /* remove side padding */
+    padding: 0;
     margin: 0;
-    width: 100vw; /* ensure full width */
+    width: 100vw;
     box-sizing: border-box;
   }
 
   .wrapper {
     width: 100%;
-    padding: 1rem; /* optional: for text */
+    padding: 1rem;
     box-sizing: border-box;
   }
 
   .link-image,
   .image-container {
     width: 100%;
-    margin: 0; /* remove default margins */
     padding: 0;
     justify-content: center;
     box-sizing: border-box;
+  }
+
+  .link-image {
+    margin-bottom: 1rem; /* Add space below first image */
   }
 
   .link-image img {
