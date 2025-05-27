@@ -99,9 +99,10 @@ a:hover {
   }
 
   .image-container img {
-    width: 100%;
+    width: 100vw;
     height: auto;
-    max-height: 50vh;
-    object-fit: contain;
+    display: block;
+    margin: 0;
+    padding: 0;
   }
 }
