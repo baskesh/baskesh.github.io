@@ -75,11 +75,17 @@ a:hover {
 }
 
 .center-image {
-  position: absolute;
+  position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  z-index: 5;
+  z-index: 10;
+  pointer-events: auto;
+}
+
+.center-image img {
+  max-width: 90vw;
+  height: auto;
 }
 
 @media screen and (max-width: 768px) {
@@ -124,6 +130,19 @@ a:hover {
     padding: 0;
     transform: none;
     content: url('/assets/images/memobile.png');
+  }
+
+  .center-image {
+    position: static;
+    transform: none;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+  }
+
+  .center-image img {
+    max-width: 100%;
+    height: auto;
   }
 
 }
