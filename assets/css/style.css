@@ -75,23 +75,18 @@ a:hover {
 }
 
 .center-image {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 10;
   display: flex;
   justify-content: center;
   align-items: center;
-  pointer-events: auto;
+  flex: 0 0 auto;
+  margin: 0 2rem;
 }
 
 .center-image img {
-  max-width: 90vw;
+  max-width: 90%;
   height: auto;
   display: block;
   margin: 0;
-  padding: 0;
 }
 
 @media screen and (max-width: 768px) {
