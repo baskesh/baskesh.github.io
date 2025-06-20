@@ -79,14 +79,12 @@ a:hover {
   justify-content: center;
   align-items: center;
   flex: 0 0 auto;
-  margin: 0 2rem;
 }
 
 .center-image img {
-  max-width: 90%;
+  max-width: 100%;
   height: auto;
   display: block;
-  margin: 0;
 }
 
 @media screen and (max-width: 768px) {
