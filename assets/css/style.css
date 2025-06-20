@@ -138,4 +138,22 @@ a:hover {
     content: url('/assets/images/memobile.png');
   }
 
+  .center-image {
+    position: static !important;
+    top: auto;
+    left: auto;
+    transform: none;
+    margin: 2rem auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    z-index: 0;
+  }
+
+  .center-image img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
 }
