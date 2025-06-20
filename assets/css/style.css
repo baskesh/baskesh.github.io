@@ -29,10 +29,12 @@ html, body {
 }
 
 .center-image {
-  flex: 0 0 auto;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  flex: 0 0 auto;
 }
 
 .center-image img {
