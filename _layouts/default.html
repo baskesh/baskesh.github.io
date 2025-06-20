@@ -2,26 +2,31 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Test</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="style.css"> <!-- adjust path as needed -->
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <div class="container">
+    
+    <!-- Left: Page Content -->
     <div class="wrapper">
-      <h1>Hello!</h1>
-      <p>This is the left column.</p>
+      {{ content }}
     </div>
-
-    <div class="center-image">
-      <a href="#">
-        <img src="/assets/images/twd.png" alt="TWD">
+    
+    <!-- Middle: Link Image -->
+    <div class="link-image">
+      <a href="https://coolstatsblog.com/2025/05/12/twd-an-fx-whodunnit/" target="_blank" aria-label="GitHub">
+        <img src="/assets/images/twd.png" alt="TWD move">
       </a>
     </div>
-
+    
+    <!-- Right: Full-height Image -->
     <div class="image-container">
       <img src="/assets/images/me.png" alt="You're hovering over me">
     </div>
+    
   </div>
 </body>
 </html>

@@ -1,82 +1,121 @@
-/* 1. Ensure full viewport coverage */
 html, body {
   margin: 0;
   padding: 0;
-  height: 100vh;
+  overflow-x: hidden;
+  width: 100%;
   background-color: #AF0000;
   color: white;
   font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+  text-align: left;
 }
 
-/* 2. Make container full screen */
 .container {
   display: flex;
-  width: 100%;
-  height: 100vh;
-  box-sizing: border-box;
-  justify-content: center;
-  align-items: stretch;
-  gap: 2rem;
-  overflow: hidden;
-}
-
-/* 3. Left column (text) */
-.wrapper {
-  flex: 1;
-  padding: 1rem;
-  box-sizing: border-box;
-}
-
-/* 4. Center image column */
-.center-image {
-  flex: 0 0 auto;
-  display: flex;
-  justify-content: center;
+  flex-wrap: nowrap;  /* prevent wrapping */
+  justify-content: space-between; /* space between text and image */
   align-items: center;
+  width: 100%;
+  max-width: 100vw;
+  padding: 0 0 2rem 1rem;
+  box-sizing: border-box;
+  min-height: 100vh;
+  overflow-x: hidden;
 }
 
-.center-image img {
-  width: 420px;
+.wrapper {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding-right: 2rem;
+}
+
+.image-container {
+  height: 100vh;  
+  display: flex;
+  align-items: flex-start;
+  margin: 0;
+}
+
+.image-container img {
+  display: block;
+  width: auto;
+  height: 100vh;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.link-image {
+  flex: 0 0 auto;
+  margin: 0 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link-image img {
+  width: 420px;        /* adjust as needed */
   height: auto;
   transition: transform 0.3s ease;
   cursor: pointer;
 }
 
-.center-image img:hover {
+.link-image img:hover {
   transform: scale(1.1);
 }
 
-/* 5. Right image */
-.image-container {
-  flex: 0 0 auto;
-  height: 100%;
-  display: flex;
+a {
+  color: white;                /* or whatever your normal link color is */
+  text-decoration: underline; /* or none, depending on your style */
+  transition: color 0.3s ease;
 }
 
-.image-container img {
-  height: 100%;
-  width: auto;
-  object-fit: cover;
-  display: block;
-  margin: 0;
-  padding: 0;
+a:hover {
+  color: #ffcccb;              /* optional hover effect */
 }
 
-/* 6. Responsive (mobile) */
 @media screen and (max-width: 768px) {
   .container {
     flex-direction: column;
-    height: auto;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    box-sizing: border-box;
   }
 
   .wrapper {
     width: 100%;
-    padding: 1rem 1.5rem;
+    padding: 1rem;
+    box-sizing: border-box;
   }
 
-  .center-image,
+  .link-image,
   .image-container {
     width: 100%;
-    justify-content: center;
     padding: 0;
-    margi
+    justify-content: center;
+    box-sizing: border-box;
+  }
+
+  .link-image {
+    margin-bottom: 3rem; /* Add space below first image */
+  }
+
+  .link-image img {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+  }
+
+  .image-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin: 0;
+    padding: 0;
+    transform: none;
+    content: url('/assets/images/memobile.png');
+  }
+
+}
