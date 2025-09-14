@@ -4,7 +4,7 @@ title: Home
 ---
 # Abbas Keshvani
 
-Macro strategist & economist specializing in EM.
+Macro strategist & economist specializing in Emerging Markets.
 
 I enjoy live comedy and economic history.
 
