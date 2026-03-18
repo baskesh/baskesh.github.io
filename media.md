@@ -7,6 +7,14 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://omny.fm/shows/moneyfm-evening-show/wealth-tracker-is-the-chinese-yuan-likely-to-appreciate-moderately-over-the-next-five-years" target="_blank">
+    China is guiding its currency stronger
+  </a>
+  <div class="source">Money FM 89.3</div>
+  <div class="date">Mar 18, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://asia.nikkei.com/Economy/ASEAN-s-patchy-economic-growth-suggests-long-road-to-recovery2" target="_blank">
     ASEAN's patchy economic growth suggests long road to recovery
   </a>
