@@ -8,7 +8,7 @@ permalink: /media/
 
 <div class="article">
   <a href="https://omny.fm/shows/moneyfm-evening-show/wealth-tracker-is-the-chinese-yuan-likely-to-appreciate-moderately-over-the-next-five-years" target="_blank">
-    China is guiding its currency stronger [Radio interview]
+    China is guiding its currency stronger &#91;Radio interview&#93;
   </a>
   <div class="source">Money FM 89.3</div>
   <div class="date">Mar 18, 2026</div>
