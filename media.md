@@ -7,6 +7,14 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://www.youtube.com/live/qgXsCLKWMJc?t=642&si=9dxLOe5vqW3iYI1B" target="_blank">
+    INR weakness and the RBI response &#91;CNBC interview#93;
+  </a>
+  <div class="source">CNBC</div>
+  <div class="date">Mar 23, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://omny.fm/shows/moneyfm-evening-show/wealth-tracker-is-the-chinese-yuan-likely-to-appreciate-moderately-over-the-next-five-years" target="_blank">
     China is guiding its currency stronger &#91;Radio interview&#93;
   </a>
