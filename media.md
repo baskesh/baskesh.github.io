@@ -10,7 +10,7 @@ permalink: /media/
   <a href="https://www.bloomberg.com/news/videos/2026-03-30/why-curbs-on-speculation-won-t-resolve-indian-rupee-woes-video" target="_blank">
     Why Curbs on Speculation Won't Resolve Indian Rupee Woes&#91;Bloomberg TV interview&#93;
   </a>
-  <div class="source">CNBC</div>
+  <div class="source">Bloomberg</div>
   <div class="date">Mar 30, 2026</div>
 </div>
 
