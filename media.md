@@ -8,7 +8,7 @@ permalink: /media/
 
 <div class="article">
   <a href="https://www.bloomberg.com/news/videos/2026-03-30/why-curbs-on-speculation-won-t-resolve-indian-rupee-woes-video" target="_blank">
-    Why Curbs on Speculation Won't Resolve Indian Rupee Woes&#91;Bloomberg TV interview&#93;
+    Why Curbs on Speculation Won't Resolve Indian Rupee Woes &#91;TV&#93;
   </a>
   <div class="source">Bloomberg</div>
   <div class="date">Mar 30, 2026</div>
@@ -16,7 +16,7 @@ permalink: /media/
 
 <div class="article">
   <a href="https://www.youtube.com/live/qgXsCLKWMJc?t=642&si=9dxLOe5vqW3iYI1B" target="_blank">
-    INR weakness and the RBI response &#91;CNBC TV interview&#93;
+    INR weakness and the RBI response &#91;TV&#93;
   </a>
   <div class="source">CNBC</div>
   <div class="date">Mar 23, 2026</div>
