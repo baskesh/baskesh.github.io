@@ -7,6 +7,14 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://www.ft.com/content/9fd5635f-26d4-488b-906e-5568338f512d?syn-25a6b1a6=1" target="_blank">
+    India’s central bank makes it harder to short the rupee
+  </a>
+  <div class="source">Financial Times</div>
+  <div class="date">April 2, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://www.bloomberg.com/news/videos/2026-03-30/why-curbs-on-speculation-won-t-resolve-indian-rupee-woes-video" target="_blank">
     Why Curbs on Speculation Won't Resolve Indian Rupee Woes &#91;TV&#93;
   </a>
@@ -24,7 +32,7 @@ permalink: /media/
 
 <div class="article">
   <a href="https://omny.fm/shows/moneyfm-evening-show/wealth-tracker-is-the-chinese-yuan-likely-to-appreciate-moderately-over-the-next-five-years" target="_blank">
-    China is guiding its currency stronger &#91;Radio interview&#93;
+    China is guiding its currency stronger &#91;Radio&#93;
   </a>
   <div class="source">Money FM 89.3</div>
   <div class="date">Mar 18, 2026</div>
