@@ -7,6 +7,22 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://www.ft.com/content/8d3f89fa-c39b-44c3-b22c-607e22b62e29?syn-25a6b1a6=1" target="_blank">
+    Iran war opens ‘golden window’ for China’s renminbi
+  </a>
+  <div class="source">Financial Times</div>
+  <div class="date">May 21, 2026</div>
+</div>
+
+<div class="article">
+  <a href="https://www.ft.com/content/6e363bc3-3114-4ddf-9f3b-67f031b3ef92?syn-25a6b1a6=1" target="_blank">
+    Record high Japanese yields trigger bets on repatriation
+  </a>
+  <div class="source">Financial Times</div>
+  <div class="date">May 17, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://www.ft.com/content/9fd5635f-26d4-488b-906e-5568338f512d?syn-25a6b1a6=1" target="_blank">
     India’s central bank makes it harder to short the rupee
   </a>
