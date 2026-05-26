@@ -8,7 +8,7 @@ permalink: /media/
 
 <div class="article">
   <a href="https://www.ft.com/content/8d3f89fa-c39b-44c3-b22c-607e22b62e29?syn-25a6b1a6=1" target="_blank">
-    Iran war opens ‘golden window’ for China’s renminbi
+    Iran war opens ‘golden window’ for China’s Renminbi
   </a>
   <div class="source">Financial Times</div>
   <div class="date">May 21, 2026</div>
