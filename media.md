@@ -7,8 +7,16 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://www.ft.com/content/d76e88bf-2c3e-4813-9a0b-124b489f3101?syn-25a6b1a6=1" target="_blank">
+    Why South Korea’s won is falling despite a chip export earnings bonanza
+  </a>
+  <div class="source">Financial Times</div>
+  <div class="date">May 29, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://www.ft.com/content/8d3f89fa-c39b-44c3-b22c-607e22b62e29?syn-25a6b1a6=1" target="_blank">
-    Iran war opens ‘golden window’ for China’s Renminbi
+    Iran war opens ‘golden window’ for China’s renminbi
   </a>
   <div class="source">Financial Times</div>
   <div class="date">May 21, 2026</div>
