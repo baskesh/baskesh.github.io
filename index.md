@@ -10,4 +10,4 @@ I enjoy live comedy and economic history.
 
 ⚲ Joo Chiat, Singapore
 
-[Blog](https://coolstatsblog.com) [Media](https://baskesh.com/media/) [LinkedIn](https://www.linkedin.com/in/baskesh) [Goodreads](https://www.goodreads.com/user/show/145306874-abbas-keshvani) [X](https://x.com/baskesh) [Email](mailto:abbas.keshvani@gmail.com)
+[Blog](https://coolstatsblog.com) [Media](https://baskesh.com/media/) [LinkedIn](https://www.linkedin.com/in/baskesh) [Goodreads](https://www.goodreads.com/user/show/145306874-abbas-keshvani) [X](https://x.com/baskesh) [✉](mailto:abbas.keshvani@gmail.com)
