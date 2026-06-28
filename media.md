@@ -7,6 +7,14 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://www.wsj.com/finance/stocks/msci-flags-further-concerns-about-indonesias-market-a805f832?mod=Searchresults&pos=3&page=1" target="_blank">
+    MSCI Flags Further Concerns About Indonesia’s Market
+  </a>
+  <div class="source">Wall Street Journal</div>
+  <div class="date">June 18, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://www.ft.com/content/d76e88bf-2c3e-4813-9a0b-124b489f3101?syn-25a6b1a6=1" target="_blank">
     Why South Korea’s won is falling despite a chip export earnings bonanza
   </a>
