@@ -7,6 +7,14 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://www.wsj.com/finance/currencies/yen-falls-to-40-year-low-versus-dollar-traders-alert-for-potential-fx-intervention-ad9b6d9f" target="_blank">
+    Yen Falls to 40-Year Low Versus Dollar
+  </a>
+  <div class="source">Wall Street Journal</div>
+  <div class="date">June 30, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://www.wsj.com/finance/stocks/msci-flags-further-concerns-about-indonesias-market-a805f832?mod=Searchresults&pos=3&page=1" target="_blank">
     MSCI Flags Further Concerns About Indonesia’s Market
   </a>
