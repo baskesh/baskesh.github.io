@@ -10,7 +10,7 @@ permalink: /media/
   <a href="https://www.ft.com/content/f06e2bec-bab6-4633-a88f-376729fdc914?syn-25a6b1a6=1" target="_blank">
     Japan finance minister urges giant pension fund to invest more at home
   </a>
-  <div class="source">Wall Street Journal</div>
+  <div class="source">Financial Times</div>
   <div class="date">July 10, 2026</div>
 </div>
 
