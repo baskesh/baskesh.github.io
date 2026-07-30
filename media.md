@@ -23,6 +23,14 @@ permalink: /media/
 </div>
 
 <div class="article">
+  <a href="https://www.reuters.com/world/china/dollar-steady-focus-turns-us-payrolls-yen-intervention-jitters-persist-2026-07-02/" target="_blank">
+    Dollar slides after soft jobs report, yen surges
+  </a>
+  <div class="source">Reuters</div>
+  <div class="date">July 2, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://www.wsj.com/finance/currencies/yen-falls-to-40-year-low-versus-dollar-traders-alert-for-potential-fx-intervention-ad9b6d9f" target="_blank">
     Yen Falls to 40-Year Low Versus Dollar
   </a>
