@@ -7,6 +7,14 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://www.ft.com/content/7143bee9-07fc-45ab-99c9-00ae2559e724?syn-25a6b1a6=1" target="_blank">
+    Investors fear Japanese bond bets risk becoming new ‘widow-maker trade’
+  </a>
+  <div class="source">Financial Times</div>
+  <div class="date">July 22, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://www.ft.com/content/f06e2bec-bab6-4633-a88f-376729fdc914?syn-25a6b1a6=1" target="_blank">
     Japan finance minister urges giant pension fund to invest more at home
   </a>
@@ -67,7 +75,7 @@ permalink: /media/
     Why Curbs on Speculation Won't Resolve Indian Rupee Woes &#91;TV&#93;
   </a>
   <div class="source">Bloomberg</div>
-  <div class="date">Mar 30, 2026</div>
+  <div class="date">March 30, 2026</div>
 </div>
 
 <div class="article">
@@ -75,7 +83,7 @@ permalink: /media/
     INR weakness and the RBI response &#91;TV&#93;
   </a>
   <div class="source">CNBC</div>
-  <div class="date">Mar 23, 2026</div>
+  <div class="date">March 23, 2026</div>
 </div>
 
 <div class="article">
@@ -83,7 +91,15 @@ permalink: /media/
     China is guiding its currency stronger &#91;Radio&#93;
   </a>
   <div class="source">Money FM 89.3</div>
-  <div class="date">Mar 18, 2026</div>
+  <div class="date">March 18, 2026</div>
+</div>
+
+<div class="article">
+  <a href="https://www.wsj.com/economy/central-banking/indian-rupee-hits-another-record-low-as-capital-outflows-tariff-risks-weigh-7e33584c?mod=Searchresults&pos=9&page=1" target="_blank">
+    Indian Rupee Hits Another Record Low
+  </a>
+  <div class="source">Wall Street Journal</div>
+  <div class="date">December 3, 2025</div>
 </div>
 
 <div class="article">
