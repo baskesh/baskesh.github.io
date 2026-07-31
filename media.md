@@ -7,6 +7,14 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://www.scmp.com/economy/china-economy/article/3362507/chinas-offshore-yuan-hits-3-year-high-beijing-signals-policy-support" target="_blank">
+    China’s offshore yuan hits 3-year high as Beijing signals policy support
+  </a>
+  <div class="source">South China Morning Post</div>
+  <div class="date">July 31, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://www.ft.com/content/7143bee9-07fc-45ab-99c9-00ae2559e724?syn-25a6b1a6=1" target="_blank">
     Investors fear Japanese bond bets risk becoming new ‘widow-maker trade’
   </a>
