@@ -7,6 +7,14 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://www.ft.com/content/1b8a5bf5-d043-4a28-a606-801a00bb8082?syn-25a6b1a6=1" target="_blank">
+    Why South Korea’s won is one of world’s best performers
+  </a>
+  <div class="source">Financial Times</div>
+  <div class="date">August 1, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://www.scmp.com/economy/china-economy/article/3362507/chinas-offshore-yuan-hits-3-year-high-beijing-signals-policy-support" target="_blank">
     China’s offshore yuan hits 3-year high as Beijing signals policy support
   </a>
