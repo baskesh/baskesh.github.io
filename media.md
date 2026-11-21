@@ -7,6 +7,30 @@ permalink: /media/
 ## Media
 
 <div class="article">
+  <a href="https://www.bloomberg.com/news/articles/2026-11-15/new-taiwan-dollar-currency-paradox-ai-boom-twd-nt-tsmc-hon-hai" target="_blank">
+    Taiwan’s Currency Paradox: AI Boom Leaves Its Dollar Behind
+  </a>
+  <div class="source">Bloomberg</div>
+  <div class="date">November 16, 2026</div>
+</div>
+
+<div class="article">
+  <a href="https://www.ft.com/content/5226dcb7-d89d-4b68-981f-b2736d7e4dca?syn-25a6b1a6=1" target="_blank">
+    US rate rise jolts yen ahead of Bank of Japan meeting
+  </a>
+  <div class="source">Financial Times</div>
+  <div class="date">September 17, 2026</div>
+</div>
+
+<div class="article">
+  <a href="https://www.ft.com/content/1c4f488f-32bc-4b49-a0c8-c55d95f5422b?syn-25a6b1a6=1" target="_blank">
+    Japan’s bonds and yen under pressure after Kevin Warsh’s Jackson Hole speech
+  </a>
+  <div class="source">Financial Times</div>
+  <div class="date">August 31, 2026</div>
+</div>
+
+<div class="article">
   <a href="https://www.ft.com/content/1b8a5bf5-d043-4a28-a606-801a00bb8082?syn-25a6b1a6=1" target="_blank">
     Why South Korea’s won is one of world’s best performers
   </a>
